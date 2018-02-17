@@ -1,0 +1,26 @@
+body {
+	background-color: #003366
+}
+
+#heading{
+	color: white;
+	border-color: #00ffff;
+}
+
+#click-title{
+	color: white;
+	border-color: #00ffff;
+}
+
+#text{
+	color:white;
+	size:40px;
+}
+
+#links{
+	color: white;
+	size: 30px;
+}
+input{
+	width:30%;
+}
